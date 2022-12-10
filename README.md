@@ -1,8 +1,9 @@
 # calc-programs
 Various programs for Texas Instruments calculators
 
-This is a complete directory of programs that I have created for use on Texas Instruments calculators.
-
+This is a complete directory of programs that I have created for use on Texas Instruments calculators. These programs can only be sent to your calculator for use via the official TI Connect software. Download the TI Connect program using the links below (make sure you download the correct one, there are two for different calculator types)!
+https://education.ti.com/en/software/details/en/B59F6C83468C4574ABFEE93D2BC3F807/swticonnectsoftware
+https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware
 
 
 ## TI-84 Family - 84, 84+, 84+CE:
