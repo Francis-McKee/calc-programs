@@ -8,7 +8,7 @@ https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2
 
 ## TI-84 Family - 84, 84+, 84+CE:
 ### Games:
-- none (yet)
+- Guess: Guess the number between 1 and 50!
 ### Tools:
-- Midpoint: Find the midpoint between 2 points on a coordinate plane
+- Midpoint: Find the midpoint between 2 points on a coordinate plane.
 - Quad: Find the two roots of the quadratic equation in the form ax^2 + bx + c = 0, or the values of x that make the equation true given values for a, b, and c. 
