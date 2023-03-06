@@ -9,7 +9,8 @@ This is a complete directory of programs that I have created for use on Texas In
 ## TI-84 Family - 84, 84+, 84+CE:
 ### Games:
 - Guess: Guess the number between 1 and 50!
+### Math:
+- Midpoint: Find the midpoint between 2 points on a coordinate plane.
+- Quad: Find the two roots of the quadratic equation in the form ax^2 + bx + c = 0, or the values of x that make the equation true given values for a, b, and c.
 ### Tools:
 - GetKey: Programming tool to get the keycode for any calc key for use in TI-Basic programs.
-- Midpoint: Find the midpoint between 2 points on a coordinate plane.
-- Quad: Find the two roots of the quadratic equation in the form ax^2 + bx + c = 0, or the values of x that make the equation true given values for a, b, and c. 
